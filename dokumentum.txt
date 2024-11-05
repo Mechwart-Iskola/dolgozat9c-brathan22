@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Bartha Norbert 
+osztály: 9.c
